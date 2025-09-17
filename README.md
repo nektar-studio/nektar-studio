@@ -25,17 +25,6 @@
 
 ---
 
-### 👩‍💻 Tool Stack
-
-![Figma](https://img.shields.io/badge/Figma-0AC97F?style=flat-square&logo=figma&logoColor=white)
-![Adobe CC](https://img.shields.io/badge/Adobe%20CC-F44336?style=flat-square&logo=adobe-creative-cloud)
-![Webflow](https://img.shields.io/badge/Webflow-3549C6?style=flat-square&logo=webflow&logoColor=white)
-![Cursor.ai](https://img.shields.io/badge/Cursor-FFBB00?style=flat-square)
-![Claude](https://img.shields.io/badge/Claude-1B4965?style=flat-square)
-![Miro](https://img.shields.io/badge/Miro-FFD600?style=flat-square&logo=miro)
-
----
-
 
 ### 👩‍💻 About Me
 
@@ -47,6 +36,17 @@ No frills. Whatever it takes 💪
 - Experienced in guiding brands to product-market fit by optimizing user experience and aligning design with business goals  
 - Startup founder with a strong background in luxury and manufacturing
 - Core skills: Design to Production Level Code, UX/UI, Figma (Pro User), Webflow, Visual Design, Design Systems, User & Market Research, Brand Development, Adobe Creative Suite, Frontend (HTML/CSS/JS)
+  
+---
+
+### 👩‍💻 Tool Stack
+
+![Figma](https://img.shields.io/badge/Figma-0AC97F?style=flat-square&logo=figma&logoColor=white)
+![Adobe CC](https://img.shields.io/badge/Adobe%20CC-F44336?style=flat-square&logo=adobe-creative-cloud)
+![Webflow](https://img.shields.io/badge/Webflow-3549C6?style=flat-square&logo=webflow&logoColor=white)
+![Cursor.ai](https://img.shields.io/badge/Cursor-FFBB00?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude-1B4965?style=flat-square)
+![Miro](https://img.shields.io/badge/Miro-FFD600?style=flat-square&logo=miro)
 
 ---
 
