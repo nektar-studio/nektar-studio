@@ -39,7 +39,7 @@ No frills. Whatever it takes 💪
   
 ---
 
-### 👩‍💻 Tool Stack
+### 🔧 Tool Stack
 
 ![Figma](https://img.shields.io/badge/Figma-0AC97F?style=flat-square&logo=figma&logoColor=white)
 ![Adobe CC](https://img.shields.io/badge/Adobe%20CC-F44336?style=flat-square&logo=adobe-creative-cloud)
